@@ -2,8 +2,8 @@
 Exploring various methods to predict the motion of autonomous vehicles in presence of multiple agents
 
 This repository is a compilation of the various approaches we used in the Kaggle Competition: <br>
-> [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/) <br>
-> Goal of the competition: To built robust motion prediction models for self-driving vehicles. <br>
+[Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/) <br>
+Goal of the competition: To built robust motion prediction models for self-driving vehicles. <br>
 
 [Lyft](https://www.lyft.com/) has the largest publicly available dataset for this purpose: [Dataset](https://self-driving.lyft.com/level5/prediction/) <br> 
 A shortened Kaggle-friendly version of the same is available in the [Data](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/data) section on the main page.

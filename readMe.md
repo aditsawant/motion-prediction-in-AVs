@@ -16,4 +16,3 @@ Following points might help you go ahead and make a baseline submission: <br>
   1. To understand the dataset structure clearly, watch this: [Intro](https://vimeo.com/451293003)
   2. Working with data can be difficult at the start. You might visit the [L5Kit](https://github.com/lyft/l5kit) repo for sample codes and jupyter notebooks.
      I'd recommend you to try and run those notebooks yourself to get a decent idea about the dataset structure.
-  3. <baseline> 
